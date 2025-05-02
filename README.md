@@ -65,7 +65,8 @@ Let’s connect, share ideas, and maybe build something cool together 🌟
     <td><a href="https://www.linkedin.com/in/nasrallah-ouazzani-chahdi-8626a4347/">Nasrallah Ouazzani Chahdi</a></td>
   </tr>
 </table>
----
+
+<hr>
 
 ###
 <picture>
