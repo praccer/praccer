@@ -55,16 +55,18 @@ Let’s connect, share ideas, and maybe build something cool together 🌟
 ---
 
 ## 🌐 SOCIAL
-
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="30" height="30"></td>
     <td><a href="mailto:dhnnasro123@gmail.com">dhnnasro123@gmail.com</a></td>
-
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"></td>
+    <td><a href="https://www.linkedin.com/in/nasrallah-ouazzani-chahdi-8626a4347/">Nasrallah Ouazzani Chahdi</a></td>
   </tr>
 </table>
-
 ---
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
