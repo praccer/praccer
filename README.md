@@ -60,8 +60,6 @@ Let’s connect, share ideas, and maybe build something cool together 🌟
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="30" height="30"></td>
     <td><a href="mailto:dhnnasro123@gmail.com">dhnnasro123@gmail.com</a></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LinkedIn_Icon.png" alt="gmail" width="30" height="30"></td>
-    <td><a href="mailto:dhnnasro123@gmail.com">Nasrallah Ouazzani Chahdi</a></td>
 
   </tr>
 </table>
